@@ -1,12 +1,2 @@
-newsgenie/
- ├─ app.py
- ├─ requirements.txt
- ├─ prompts.py
- ├─ llm.py
- ├─ graph.py
- ├─ services/
- │    ├─ news_providers.py
- │    └─ web_search.py
-
 import streamlit as st
 
