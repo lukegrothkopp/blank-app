@@ -1,9 +1,5 @@
-newsgenie/
- ├─ app.py
- ├─ requirements.txt
- ├─ prompts.py
- ├─ llm.py
- ├─ graph.py
- ├─ services/
- │    ├─ news_providers.py
- │    └─ web_search.py
+git init
+git remote add origin https://github.com/your-username/NewsGenie.git
+git add .
+git commit -m "Initial NewsGenie app"
+git push -u origin main
